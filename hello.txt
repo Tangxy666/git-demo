@@ -14,3 +14,4 @@ hello git!
 hello git! master-test
 hello git! hot-fix-test
 777777777777777777777777777777777
+myname=lhc
